@@ -89,12 +89,12 @@ Once all necessary information is gathered, present the final result in the foll
 
 ## 🌍 Languages
 
-- 🇬🇧 English version: this repo
+- us English version: this repo
 - 🇫🇷 French version: coming soon
 
 ---
 
-## 🙋 About
+## 🙋‍♂️ About
 
 Made by **Tarek** — BTS student in Network Administration & Security (ASRI), Algeria.  
 Building useful tools for the Arabic/French/english -speaking tech community.
