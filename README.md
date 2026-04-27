@@ -46,17 +46,20 @@ Ensure accuracy and depth in your explanations.
 
 ## 4. CONTEXT (User Background)
 Here is my situation:
-[Insert context, documents, background, or constraints]
+[Insert detailed context, documents, background, or constraints]
 Use this information to avoid generic responses and provide tailored advice.
 
 ## 5. INFORMATION EXTRACTION (PULL MODE)
 Do NOT generate the final answer yet.
 Instead:
 - Identify missing critical information
-- Ask the 5–7 most important questions required to produce a high-quality result
+- Ask the 7-10 most important questions required to produce a high-quality result
 Wait for my answers before proceeding.
 
-## 6. OUTPUT FORMAT
+## 6. TONE
+I want you to use this tone : [tell the AI which tone it should use : friendly, direct...etc.]
+
+## 7. OUTPUT FORMAT
 Once all necessary information is gathered, present the final result in the following format:
 [Specify format: structured plan, step-by-step guide, report, table, etc.]
 ```
@@ -70,7 +73,7 @@ Once all necessary information is gathered, present the final result in the foll
 → You get a copy-paste answer that works for nobody in particular.
 
 **With the framework:**
-> "Act as a world-class IT career consultant. My goal is to become a CISO in Algeria. Here is my background: [20 years old, BTS student in network security, CCNA certifications...]. Before answering, ask me the 7 most critical questions..."
+> "Act as a world-class IT career consultant. My goal is to work in the Cybersecurity field. Here is my background: [tell the AI your background]. Before answering, ask me the 7 most critical questions..."
 → You get a personalized, actionable roadmap.
 
 ---
@@ -94,7 +97,7 @@ Once all necessary information is gathered, present the final result in the foll
 ## 🙋 About
 
 Made by **Tarek** — BTS student in Network Administration & Security (ASRI), Algeria.  
-Building useful tools for the Arabic/French-speaking tech community.
+Building useful tools for the Arabic/French/english -speaking tech community.
 
 ---
 
