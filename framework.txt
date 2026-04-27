@@ -1,0 +1,30 @@
+# AI Prompt Engineering Framework
+
+## 1. ROLE (Expert Mode)
+Act as a [insert role].
+Your mission is to provide high-level, expert-level guidance
+with the precision of a world-class consultant.
+
+## 2. OBJECTIVE (End Goal)
+My goal is to achieve: [describe the exact desired outcome].
+Do not provide partial answers — aim for a complete and high-quality result.
+
+## 3. RESEARCH REQUIREMENT
+Base your responses on reliable and up-to-date information when relevant.
+Ensure accuracy and depth in your explanations.
+
+## 4. CONTEXT (User Background)
+Here is my situation:
+[Insert context, documents, background, or constraints]
+Use this information to avoid generic responses and provide tailored advice.
+
+## 5. INFORMATION EXTRACTION (PULL MODE)
+Do NOT generate the final answer yet.
+Instead:
+- Identify missing critical information
+- Ask the 5-7 most important questions required to produce a high-quality result
+Wait for my answers before proceeding.
+
+## 6. OUTPUT FORMAT
+Once all necessary information is gathered, present the final result in the following format:
+[Specify format: structured plan, step-by-step guide, report, table, etc.]
